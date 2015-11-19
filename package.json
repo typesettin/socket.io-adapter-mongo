@@ -1,5 +1,5 @@
 {
-  "name": "socket.io-adapter-mongo",
+  "name": "@yawetse/socket.io-adapter-mongo",
   "version": "0.1.5",
   "description": "",
   "scripts": {
@@ -28,6 +28,10 @@
     {
       "name": "Sam Workman",
       "email": "sam@mod.it"
+    },
+    {
+      "name": "Yaw Etse",
+      "email": "yaw.etse@gmail.com"
     },
     {
       "name": "Shannon Poole",
