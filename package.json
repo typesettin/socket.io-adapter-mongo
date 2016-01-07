@@ -1,16 +1,16 @@
 {
   "name": "@yawetse/socket.io-adapter-mongo",
-  "version": "0.1.5",
-  "description": "",
+  "version": "0.1.6",
+  "description": "[![Build Status](https://secure.travis-ci.org/modit/socket.io-adapter-mongo.png)](http://travis-ci.org/modit/socket.io-adapter-mongo) [![NPM version](https://badge.fury.io/js/socket.io-adapter-mongo.png)](http://badge.fury.io/js/socket.io-adapter-mongo)",
   "scripts": {
     "test": "mocha"
   },
   "dependencies": {
-    "debug": "0.7.4",
+    "debug": "^2.2.0",
     "mongodb-uri": "^0.9.7",
     "msgpack-js": "0.3.0",
     "mubsub": "^1.1.2",
-    "socket.io-adapter": "0.3.0",
+    "socket.io-adapter": "^0.4.0",
     "uid2": "0.0.3"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/modit/socket.io-adapter-mongo.git"
+    "url": "git+https://github.com/modit/socket.io-adapter-mongo.git"
   },
   "contributors": [
     {
@@ -40,14 +40,33 @@
     {
       "name": "Isaac Johnson",
       "email": "iojohnso@gmail.com"
-    },
+    }
+  ],
+  "gitHead": "3109170c5a7e16151336c876bcc5b22ac0279eab",
+  "bugs": {
+    "url": "https://github.com/modit/socket.io-adapter-mongo/issues"
+  },
+  "homepage": "https://github.com/modit/socket.io-adapter-mongo#readme",
+  "_id": "@yawetse/socket.io-adapter-mongo@0.1.5",
+  "_shasum": "6cca4a4713b3c98b826b4481d769cfa30fc5001e",
+  "_from": "@yawetse/socket.io-adapter-mongo@>=0.1.5 <0.2.0",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "yawetse",
+    "email": "yaw.etse@gmail.com"
+  },
+  "dist": {
+    "shasum": "6cca4a4713b3c98b826b4481d769cfa30fc5001e",
+    "tarball": "http://registry.npmjs.org/@yawetse/socket.io-adapter-mongo/-/socket.io-adapter-mongo-0.1.5.tgz"
+  },
+  "maintainers": [
     {
-      "name": "Chris Whitten",
-      "email": "christopherwhitten@gmail.com"
-    },
-    {
-      "name": "Yaw Etse",
+      "name": "yawetse",
       "email": "yaw.etse@gmail.com"
     }
-  ]
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@yawetse/socket.io-adapter-mongo/-/socket.io-adapter-mongo-0.1.5.tgz",
+  "readme": "ERROR: No README data found!"
 }
